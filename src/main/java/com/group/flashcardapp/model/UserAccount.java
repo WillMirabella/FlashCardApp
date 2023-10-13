@@ -46,7 +46,7 @@ public class UserAccount {
     }
 
     public int convertToPoints(){
-        this.points = winstreak*1000;
+        this.points = winstreak*1000;   //we can change the conversion just a base conversion
         return this.points;
     }
 
