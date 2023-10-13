@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0e09494-1d1b-434c-a007-088f1300f010" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/BackSide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/CardCollectionBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/CardSide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/FrontSide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/group/flashcardapp/model/FlashCardTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/FlashCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/FlashCard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +41,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
   <component name="RecentsManager">
