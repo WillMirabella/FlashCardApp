@@ -16,10 +16,11 @@ public class UserAccount {
             if (passwordReqCheck(password)) {
                 this.password = password;
             } else {
-                throw new InvalidPasswordException("This password is invalid please try again");
+                throw new Exception();
             }
-        } catch (InvalidPasswordException e) {
+        } catch (Exception e) {
             e.printStackTrace();
+            System.out.println("This password is invalid please try again");
         }
     }
 

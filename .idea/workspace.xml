@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0e09494-1d1b-434c-a007-088f1300f010" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/controller/TextSideController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/TextSide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/group/flashcardapp/cardSides/textSide.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/group/flashcardapp/model/FrontSideTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/BackSide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/CardSide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/CardSide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/FlashCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/FlashCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/FrontSide.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/group/flashcardapp/model/UserAccount.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,12 +26,35 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;WillMirabella&quot;
+  }
+}</component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e3af74a5-8b49-4bc7-8c4d-c6e59f5ed1f5" />
+        <option name="url" value="https://github.com/WillMirabella/FlashCardApp.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,16 +68,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.group.flashcardapp.model" />
@@ -54,7 +87,6 @@
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.group.flashcardapp.model" />
-      <recent name="com.group.flashcardapp.model.test" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,5 +99,16 @@
       <updated>1697121577289</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
